@@ -1,0 +1,2 @@
+KAGGLE DATASET SOURCE:
+    https://www.kaggle.com/datasets/feronial/turkish-sign-languagefinger-spelling/code
